@@ -1,7 +1,9 @@
 # 👋 ¡Hola! Soy Víctor Alfonso Vargas Díaz.
 <br/> 
 
-<img width="1536" height="1024" alt="Banner (2)" src="https://github.com/user-attachments/assets/b9400e37-522d-4bc5-b778-b15d0fe0794c" />
+<div align="center" style="margin: 1rem 0;">
+  <img src="https://github.com/user-attachments/assets/b9400e37-522d-4bc5-b778-b15d0fe0794c" alt="Banner Profesional" style="width: 700%; max-width: 1000px; height: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</div>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Backend+%26+Frontend;Java+%7C+Python+%7C+JavaScript;React+%7C+Angular+%7C+Vue.js;Spring+Boot+%7C+Node.js" alt="Typing SVG" />
 
