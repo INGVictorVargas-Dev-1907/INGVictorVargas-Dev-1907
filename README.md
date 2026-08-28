@@ -399,13 +399,9 @@ Aplicación desarrollada durante una formación especializada en Angular, enfoca
 
 ## 📄 Descargar CV
 
-<div align="center">
-
-<a href="./profile/cv/Hoja%20de%20vida%20firmada%20y%20fechada%20-%20Victor%20Vargas.pdf">
+<a href="https://github.com/INGVictorVargas-Dev-1907/TU_REPOSITORIO/raw/refs/heads/main/profile/cv/Hoja%20de%20vida%20firmada%20y%20fechada%20-%20Victor%20Vargas.pdf">
   <img src="https://img.shields.io/badge/📄%20Descargar%20CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Descargar CV"/>
 </a>
-
-</div>
 
 ---
 
