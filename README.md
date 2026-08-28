@@ -399,7 +399,7 @@ Aplicación desarrollada durante una formación especializada en Angular, enfoca
 
 ## 📄 Descargar CV
 
-https://downgit.github.io/#/home?url=https://github.com/INGVictorVargas-Dev-1907/INGVictorVargas-Dev-1907/blob/main/profile/cv/Hoja%20de%20vida%20firmada%20y%20fechada%20-%20Victor%20Vargas.pdf>
+https://raw.githubusercontent.com/INGVictorVargas-Dev-1907/INGVictorVargas-Dev-1907/main/profile/cv/Hoja%20de%20vida%20firmada%20y%20fechada%20-%20Victor%20Vargas.pdf
 
 ---
 
