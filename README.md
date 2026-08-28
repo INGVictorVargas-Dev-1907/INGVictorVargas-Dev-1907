@@ -41,7 +41,7 @@
 Soy un Ingeniero de sistemas que se enfoca en eldesarrollador Full Stack con experiencia en la creación, diseño, implementación y administración de aplicaciones web modernas y escalables. Tengo sólidos conocimientos en 
 el desarrollo de interfaces interactivas con Angular, .NET y C#. React.js, TypeScript, Node.js, HTML, CCS. Amplio 
 dominio de TypeScript, RxJS, Material, NgRx y buenas prácticas como modularización, lazy loading y arquitectura 
-basada en componentes y en la construcción de APIs eficientes con Python en Django y FastAPI, Node.js y Express, 
+basada en componentes y en la construcción de APIs eficientes con Python en Django y FastAPI, Node.js y Express, Java y Spring Boot, 
 Angular CLI, y manejo básico de estado con servicios y observables SQL, NoSQL, Firebase, Aws, etc. Además, 
 cuento con experiencia en ciberseguridad y análisis de datos, lo que me permite desarrollar soluciones seguras y 
 optimizadas. Mi enfoque es el desarrollo limpio, escalable y seguro, con buenas prácticas y metodologías ágiles. Me 
@@ -181,44 +181,49 @@ Certificación en Desarrollo web Full Stack.
 ## 💼 Experiencia profesional reciente
 <br/>
 
-### Incubaap Proyecto Concert Plaza (Tiempo Completo). Enero 2024 – Septiembre 
-#### Ingeniero de Análisis de Datos. 
-- Investigación de APIs para la petición de la información requerida. 
-- Recoleccion, limpieza, organización y unificación de código para la información requerida.
-- Diseño e implementación de todos los datos recolectados para ser analizados. 
-- Visualizacion de datos extraídos y analizados, verificar el correcto análisis para luego presentarse al grupo del 
-proyecto y compartir ideas. 
-- Ayudar en la toma de decisiones con base en los datos que se tienen y sus patrones de tendencia.
+### INCUBAPP VENTURE CAPITAL S.A.S (Tiempo Completo). Enero 2024 – Mayo 2025 
+#### Desarrollador web full stack.
+#### Funciones y logros en desarrollo web full stack: 
+- Desarrollo completo de una plataforma utilizando Angular, .NET Core, C#, React.js, Node.js, Express y MongoDB, complementado con Java SE, arquitectura MVC. 
+- Uso de Bash y PowerShell para comandos y automatización de tareas
+- Implementación de interfaces dinámicas y responsivas con HTML5, CSS3, SASS, Tailwind
+CSS, Bootstrap, JavaScript (ES6+), React Hooks, Context API y PHP.
+- Creación de componentes modulares y reutilizables aplicando Redux y Angular.js para la gestión de estado. 
+- Integración de APIs externas (REST y SOAP) para servicios de comunicación, envíos y pagos simulados.
+- Pruebas unitarias y funcionales en endpoints clave con JUnit, Pytest y Jest, asegurando estabilidad y rendimiento.
+- Aplicación de principios de Clean Code, CI/CD y microservicios para garantizar escalabilidad. Uso de Docker para entornos de desarrollo y despliegue.
+
 
 <br/>
 
-### Todo en Electro José (Tiempo completo). Montería - Colombia Feb 2021 - Julio 2023 
-#### Analista Junior de Ciberseguridad. 
-- Revisión diariamente de todos los equipos de cómputo de la empresa. 
-- Identificar los factores o razones que alteran o disminuyen el funcionamiento del computador en revisión. 
-- Tomar medida y acción para evitar fuga o perdida de datos mediante herramientas que identifican las vulnerabilidades 
-del computador. 
-- Mantener activos consolas antivirus y demás autenticaciones para hacer más segura la máquina. 
-- Presentar reporte de cada uno de los equipos de cómputo para que la empresa este informada de lo que pasa en los equipos. 
+### Procesadora y tostadora de café Ámbar (Tiempo completo). Julio de 2024 - Noviembre 2025 
+#### Desarrollador de software 
+#### Funciones y logros en desarrollo de software:
+- Diseño, desarrollo y mantenimiento de APIs escalables con Node.js, Express y TypeScript, conectadas a bases de datos SQL. 
+- Implementación de interfaces modernas y optimizadas con React, Vue y Next.js,
+garantizando rendimiento y experiencia de usuario. 
+- Creación y conexión de servicios RESTful y GraphQL en Node.js, FastAPI y Django, con
+múltiples bases de datos (MySQL, PostgreSQL, Oracle, MongoDB, Redis).
+- Gestión de autenticación y autorización segura mediante JWT, OAuth2 (Google y GitHub), Firebase Authentication. 
+-  Diseño de bases de datos escalables con SQL y NoSQL, aplicando buenas prácticas de
+seguridad y normalización.
+- Aplicación de principios de Clean Code, testing automatizado, y metodologías ágiles
+orientadas a calidad y escalabilidad.
+- Pruebas unitarias (front y back) y documentación de APIs, garantizando mantenibilidad y escalabilidad.   
+- Comunicación continua con el cliente, aplicando metodologías ágiles (Scrum/Kanban).
+- Documentación técnica de APIs, comunicación continua con clientes y metodologías ágiles(Scrum/Kanban).
+
 
 <br/>
 
-### FreeLancer Proyecto Plataforma E-Commerce Full Stack (Remoto). Octubre 2023 Febrero 2025               
-#### Desarrollador Web Full Stack 
-- Desarrollo completo de una plataforma e-commerce utilizando Angular, React, Node.js, Express y MongoDB.
-- Implementación de interfaces dinámicas y responsivas con HTML5, CSS3,  PHP, JavaScript moderno (ES6+) WordPress y 
-React Hooks.
-- Creación y conexión de servicios backend RESTful en Node.js y FastAPI, integrando múltiples bases de datos (MySQL, 
-PostgreSQL, MongoDB).
-- Gestión de autenticación y autorización de usuarios utilizando JWT, OAuth (Google y GitHub) y validaciones 
-personalizadas. 
-- Diseño e implementación de esquemas de base de datos eficientes y seguros. 
-- Integración de APIs externas para servicios de envío, pagos simulados y pasarelas de comunicación. 
-- Pruebas unitarias y funcionales en endpoints clave, asegurando estabilidad y rendimiento del sistema. 
-- Despliegue de la aplicación en entornos cloud (Render, Vercel, Railway), con documentación completa para usuarios y 
-desarrolladores. 
-- Comunicación continua con el cliente para entender requerimientos, entregar avances y aplicar retroalimentación en cada 
-sprint.
+### CENTRO DE ATENCIÓN E INVESTIGACIÓN MÉDICA – CAIMED S.A.S. (Remoto). Octubre 2025 Febrero 2026               
+#### INGENIERO DE DESARROLLO JUNIOR
+- Desarrollo y mantenimiento de aplicaciones web Frontend y Backend utilizando Java, HTML y CSS.
+- Desarrollo de servicios y APIs REST para integración entre sistemas.
+- Diseño y ejecución de consultas SQL y gestión de bases de datos PostgreSQL/MySQL mediante DBeaver.
+- Creación y mantenimiento de tablas, relaciones y estructuras de bases de datos.
+- Análisis y solución de errores en aplicaciones, código y bases de datos.
+- Control de versiones mediante BitBucket y participación en equipos de desarrollo bajo metodologías ágiles.
 
 ---
 
