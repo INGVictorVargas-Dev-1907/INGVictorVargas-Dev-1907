@@ -399,7 +399,7 @@ Aplicación desarrollada durante una formación especializada en Angular, enfoca
 
 ## 📄 Descargar CV
 
-[![Descargar CV](https://img.shields.io/badge/Descargar_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](enlace-a-tu-cv.pdf)
+[![Descargar CV](https://img.shields.io/badge/Descargar_CV-FF0000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](profile/cv/Hoja de vida firmada y fechada - Victor Vargas.pdf)
 
 ---
 
